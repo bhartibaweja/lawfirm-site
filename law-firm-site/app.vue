@@ -6,7 +6,5 @@
   </div>
 </template>
 <script setup>
-definePageMeta({
-  middleware: ['disclaimer']
-})
+
 </script>
